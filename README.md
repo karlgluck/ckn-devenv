@@ -22,8 +22,6 @@ git config --global user.name "FIRST_NAME LAST_NAME"
 git config --global user.email "MY_NAME@example.com"
 ```
 
-# Note: add configuration for personal access token here, since we're going to a private repo
-
 5. Run in PowerShell to clone the project:
 
 ```
