@@ -1,6 +1,6 @@
-# Boostrap
+# CKN Developer Environment
 
-Developer pc auto-setup scripts. For a standard Win10Pro dev PC with space for this project on the `D:` drive and installed applications/OS on `C:` drive. Adapt as necessary.
+CKN dev pc auto-setup scripts. For a standard Win10Pro dev PC with space for this project on the `D:` drive and installed applications/OS on `C:` drive. Adapt as necessary.
 
 <details>
 <summary><h3>First time setup</h3></summary>
