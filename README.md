@@ -5,7 +5,7 @@ CKN dev pc auto-setup scripts. For a standard Win10Pro dev PC with space for thi
 <details>
 <summary><h3>First time setup</h3></summary>
 
-1. `Win + x` , `a`, `enter`
+1. `Win + x` , `a`, `Alt + y`
 
 2. Accept prompt to start admin-mode PowerShell
 
@@ -42,7 +42,7 @@ Getting started with work is the same as updating the project.
 
 1. Close any open editors (Unreal, etc)
 
-2. `Win + x` , `a`, `enter`
+2. `Win + x` , `a`, `Alt + y`
 
 3. Accept prompt to start admin powershell
 
